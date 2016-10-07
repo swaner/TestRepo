@@ -10,7 +10,7 @@ namespace MyConsoleApplication.cs
     {
         static void Main(string[] args)
         {
-
+            // This is a bug fix
             Console.Out.WriteLine("Welcome");
 
         }
