@@ -11,6 +11,7 @@ namespace MyConsoleApplication.cs
         static void Main(string[] args)
         {
             Console.Out.WriteLine("Welcome");
+            Console.In.ReadLine();
         }
     }
 }
